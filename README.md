@@ -27,7 +27,7 @@ Python (test.py)
 print("лучше покакать и опоздать, чем прийти и опосраться")
 ```
 2. Результаты трассировки
-![Трассировка direct_io](./eNQBqPkEUWLPQmqfbT6FTqqvEhJLOK1hvtZwlxMorc8Z8zpejOS858AFo11ToJra7dEK5Mdg8bwW1u2M5eAcpiMQ.jpg)
+![Трассировка direct_io](./hUo78AUBYTO0RzR4uTY3bv7qDnOdLvo0BTWUVYvE6BcwOBaV6xZudIPUe4KMIdFLJFy1C1UaVFeqy5hGNHDeRvDd.jpg)
 ![Трассировка test.py](./Z0GU54SLJUKeMmEFmnpaSi_aiJSsErC2YyfRxiyfcHzcubHt3_v8lqFIqdneHk2njpG2BbTqFaaIVg9SfhZXPaQU.jpg)
 3. Ответы на контрольные вопросы
  * При выполнении инструкции syscall происходит аппаратное прерывание, которое переключает режим работы процессора из пользовательского режима (Ring 3) в режим ядра (Ring 0).
